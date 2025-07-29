@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/riiddhiima/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/riiddhiima/leetcode/tree/master/0169-majority-element) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/riiddhiima/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/riiddhiima/leetcode/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0882-peak-index-in-a-mountain-array](https://github.com/riiddhiima/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
